@@ -8,8 +8,9 @@
 - [1. Bubble Sort](#bubble)
 - [2. Insertion Sort](#insertion)
 - [3. Selection Sort](#selection)
-- [4. Merge Sort](#merge)
-- [5. Quick Sort](#quick)
+- [4. Quick Sort](#quick)
+- [5. Merge Sort](#merge)
+  
 
 
 
