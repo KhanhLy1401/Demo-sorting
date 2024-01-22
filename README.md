@@ -37,6 +37,7 @@ VD: This PC > Local Disk (D) > Start Github
 - Hướng dẫn cài và sử dụng git https://www.hostinger.vn/huong-dan/huong-dan-su-dung-git-lenh-git-co-ban
 
 ***Cách cài Visual Studio Code***
+
 - Cách cài Visual Studio Code [ https://gitiho.com/blog/huong-dan-cai-dat-visual-studio-code-cho-nguoi-moi-hoc-lap-trinh.html ]
 - Cài liver Server để chạy https://www.youtube.com/watch?v=E2sRb9kjHaM
 
@@ -49,10 +50,12 @@ Sắp xếp là quá trình bố trí lại các phần tử trong một tập h
 ### 1. Bubble Sort
 
 ***Ý tưởng***
+
 - Xuất phát từ đầu dãy, đổi chỗ các cặp phần tử kề nhau để đưa phần tử lớn hơn trong cặp phần tử đó về vị trí cuối dãy , sau đó sẽ không xét đến nó ở bước tiếp theo, Ở lần xử lý thứ i phần tử đó có vị trí tính cuối dãy là i.
 - Lặp lại xử lý trên cho đến khi không còn cặp phần tử nào để xét.
 
 ***Đánh giá***
+
 - Số lượng các phép so sánh xảy ra không phụ thuộc vào tình trạng của dãy số ban đầu.
 - Số lượng phép hoán vị thực hiện tùy thuộc vào kết quả so sánh.
 - Độ phức tạp: 
